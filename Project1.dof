@@ -106,7 +106,7 @@ Launcher=
 UseLauncher=0
 DebugCWD=
 [Version Info]
-IncludeVerInfo=0
+IncludeVerInfo=1
 AutoIncBuild=0
 MajorVer=1
 MinorVer=0
@@ -120,13 +120,16 @@ DLL=0
 Locale=2052
 CodePage=936
 [Version Info Keys]
-CompanyName=
+CompanyName=诸葛草帽工作室
 FileDescription=
 FileVersion=1.0.0.0
-InternalName=
-LegalCopyright=
+InternalName=Win7/Win8 无线热点（Wi-Fi）开启设置工具
+LegalCopyright=诸葛草帽
 LegalTrademarks=
 OriginalFilename=
-ProductName=
+ProductName=Win7/Win8 无线热点（Wi-Fi）开启设置工具
 ProductVersion=1.0.0.0
 Comments=
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;

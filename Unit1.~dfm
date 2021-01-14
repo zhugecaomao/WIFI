@@ -2,7 +2,7 @@ object Form1: TForm1
   Left = 481
   Top = 219
   BorderStyle = bsDialog
-  Caption = 'Win7/Win8 '#26080#32447#28909#28857#65288'Wi-Fi'#65289#24320#21551#35774#32622#24037#20855
+  Caption = 'Win7 '#26080#32447#28909#28857#65288'Wi-Fi'#65289#24320#21551#35774#32622#24037#20855
   ClientHeight = 320
   ClientWidth = 453
   Color = clBtnFace
